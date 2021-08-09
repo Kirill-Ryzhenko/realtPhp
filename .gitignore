@@ -1,0 +1,4 @@
+.htaccess
+.idea
+/uploads/image/rent/**.*
+/uploads/image/sale/**.*
